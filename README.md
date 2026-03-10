@@ -1,2 +1,7 @@
-# smart-task-manager
-Exported from Caffeine project: Smart Task Manager
+Smart Task Manager
+
+A responsive task manager built using modern frontend technologies.
+Features:
+- Add / delete tasks
+- Responsive UI
+- Clean design
